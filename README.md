@@ -12,7 +12,7 @@ The following algorithms and models have been implemented in Python (or other ap
 4. **Uniform Cost Search** 🧮
 5. **Perceptron Model** 🧠
 6. **Artificial Neural Networks (ANN)** 🔗
-7. **A* Search Algorithm** 🌟
+7. **A * Search Algorithm** 🌟
 8. **Convolutional Neural Networks (CNN)** 🖼️
 9. **Tic-Tac-Toe AI** 🎮
 10. **Backpropagation in Perceptron** 🔄
@@ -41,7 +41,7 @@ Each folder contains the source code and related files for a specific algorithm 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/AI-Labs.git
+   git clone https://github.com/dwija12903/ai-lab.git
    cd AI-Labs
    ```
 
